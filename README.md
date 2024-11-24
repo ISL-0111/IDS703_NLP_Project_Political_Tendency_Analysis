@@ -4,7 +4,7 @@ Trained model(Nov.19)
 
 (BERT trained with HEADLINE) https://duke.box.com/s/8bax76my1wfbdu2715xtrp662zu6fl72
 
-(BERT trained with SUMMARY) TBD / shawn
+(BERT trained with SUMMARY) https://duke.box.com/s/zq5bu72d29k83tbuen5b24deqojzhiaj
 
 
 https://ground.news/
