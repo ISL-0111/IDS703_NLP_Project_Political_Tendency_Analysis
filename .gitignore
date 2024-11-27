@@ -3,3 +3,4 @@ data/*
 venv_lda_implementation
 models/*
 distilbert-base-uncasedlora-txt/
+backup

@@ -1,0 +1,456 @@
+1it [00:01,  1.51s/it]
+Training Loss per 500 steps: 1.385679841041565
+Training Accuracy per 500 steps: 18.75
+501it [03:59,  1.98it/s]
+Training Loss per 500 steps: 1.3512667167686416
+Training Accuracy per 500 steps: 35.30439121756487
+1001it [08:00,  2.11it/s]
+Training Loss per 500 steps: 1.32307597009333
+Training Accuracy per 500 steps: 40.55944055944056
+1501it [12:01,  1.97it/s]
+Training Loss per 500 steps: 1.2970799924054994
+Training Accuracy per 500 steps: 43.516822118587605
+2001it [23:30,  1.62s/it]
+Training Loss per 500 steps: 1.2812009777562847
+Training Accuracy per 500 steps: 45.12118940529735
+2501it [28:50,  2.08it/s]
+Training Loss per 500 steps: 1.269617057618786
+Training Accuracy per 500 steps: 46.29148340663735
+3001it [32:59,  1.93it/s]
+Training Loss per 500 steps: 1.2586246892755248
+Training Accuracy per 500 steps: 47.430023325558146
+3501it [37:00,  2.13it/s]
+Training Loss per 500 steps: 1.251203867153793
+Training Accuracy per 500 steps: 48.20051413881748
+4001it [40:59,  2.10it/s]
+Training Loss per 500 steps: 1.243462026357591
+Training Accuracy per 500 steps: 48.96432141964509
+4501it [48:41,  1.83s/it]
+Training Loss per 500 steps: 1.2362862749646384
+Training Accuracy per 500 steps: 49.7236725172184
+5001it [1:05:36,  2.23s/it]
+Training Loss per 500 steps: 1.2305056767877496
+Training Accuracy per 500 steps: 50.31368726254749
+5501it [1:22:11,  2.03s/it]
+Training Loss per 500 steps: 1.2249215892869068
+Training Accuracy per 500 steps: 50.89415560807126
+6001it [1:34:17,  2.22it/s]
+Training Loss per 500 steps: 1.2202664539429013
+Training Accuracy per 500 steps: 51.350816530578236
+6501it [1:38:16,  2.02it/s]
+Training Loss per 500 steps: 1.2160789323868961
+Training Accuracy per 500 steps: 51.78241808952469
+7001it [1:42:16,  2.04it/s]
+Training Loss per 500 steps: 1.2113874017247266
+Training Accuracy per 500 steps: 52.280031424082274
+7428it [1:45:37,  1.17it/s]
+The Total Accuracy for Epoch 0: 52.61652123425417
+Training Loss Epoch: 1.2083636725228128
+Training Accuracy Epoch: 52.61652123425417
+1it [00:00,  2.11it/s]
+Validation Loss per 100 steps: 1.1601933240890503
+Validation Accuracy per 100 steps: 56.25
+826it [06:27,  2.13it/s]
+Validation Loss Epoch: 1.1467808504514487
+Validation Accuracy Epoch: 58.69746308216585
+Learning rate: 1e-05
+Saved Best Model!
+
+Epoch 2/15
+------------------------------
+1it [00:00,  1.93it/s]
+Training Loss per 500 steps: 1.244023323059082
+Training Accuracy per 500 steps: 43.75
+501it [03:58,  2.19it/s]
+Training Loss per 500 steps: 1.1540360969459702
+Training Accuracy per 500 steps: 58.00898203592814
+1001it [08:25,  2.17it/s]
+Training Loss per 500 steps: 1.1528245705467361
+Training Accuracy per 500 steps: 58.30419580419581
+1501it [12:22,  2.18it/s]
+Training Loss per 500 steps: 1.1511229785738748
+Training Accuracy per 500 steps: 58.52348434377082
+2001it [16:18,  2.20it/s]
+Training Loss per 500 steps: 1.1507575718955003
+Training Accuracy per 500 steps: 58.45514742628686
+2501it [20:19,  2.07it/s]
+Training Loss per 500 steps: 1.1493501838375597
+Training Accuracy per 500 steps: 58.60405837664934
+3001it [24:17,  2.07it/s]
+Training Loss per 500 steps: 1.1485602455471247
+Training Accuracy per 500 steps: 58.72000999666778
+3501it [28:15,  2.21it/s]
+Training Loss per 500 steps: 1.14707984969603
+Training Accuracy per 500 steps: 58.87425021422451
+4001it [32:14,  2.12it/s]
+Training Loss per 500 steps: 1.1457319108583546
+Training Accuracy per 500 steps: 58.97588102974257
+4501it [36:11,  2.04it/s]
+Training Loss per 500 steps: 1.1447300186583107
+Training Accuracy per 500 steps: 59.10630970895357
+5001it [40:08,  2.02it/s]
+Training Loss per 500 steps: 1.1448659641555348
+Training Accuracy per 500 steps: 59.09443111377725
+5501it [44:06,  2.21it/s]
+Training Loss per 500 steps: 1.1433570589223485
+Training Accuracy per 500 steps: 59.25968005817124
+6001it [48:04,  2.11it/s]
+Training Loss per 500 steps: 1.1424676231733264
+Training Accuracy per 500 steps: 59.34740043326112
+6501it [52:02,  2.06it/s]
+Training Loss per 500 steps: 1.1416830668869689
+Training Accuracy per 500 steps: 59.41970466082141
+7001it [56:01,  2.10it/s]
+Training Loss per 500 steps: 1.141514664078726
+Training Accuracy per 500 steps: 59.41294100842737
+7428it [59:24,  2.08it/s]
+The Total Accuracy for Epoch 1: 59.48031403303574
+Training Loss Epoch: 1.1406437216038723
+Training Accuracy Epoch: 59.48031403303574
+1it [00:00,  2.09it/s]
+Validation Loss per 100 steps: 1.1507707834243774
+Validation Accuracy per 100 steps: 62.5
+826it [06:26,  2.14it/s]
+Validation Loss Epoch: 1.1226621272344566
+Validation Accuracy Epoch: 61.310109806891326
+Learning rate: 1e-05
+Saved Best Model!
+
+Epoch 3/15
+------------------------------
+1it [00:00,  1.93it/s]
+Training Loss per 500 steps: 1.1281132698059082
+Training Accuracy per 500 steps: 56.25
+501it [03:57,  2.11it/s]
+Training Loss per 500 steps: 1.1399728750992202
+Training Accuracy per 500 steps: 59.493512974051896
+1001it [07:53,  2.10it/s]
+Training Loss per 500 steps: 1.1338584255743456
+Training Accuracy per 500 steps: 60.23351648351648
+1501it [11:49,  2.05it/s]
+Training Loss per 500 steps: 1.1307116927582768
+Training Accuracy per 500 steps: 60.56379080612925
+2001it [15:45,  2.14it/s]
+Training Loss per 500 steps: 1.130753273251413
+Training Accuracy per 500 steps: 60.500999500249875
+2501it [19:42,  2.07it/s]
+Training Loss per 500 steps: 1.1300539540462806
+Training Accuracy per 500 steps: 60.52079168332667
+3001it [23:38,  2.12it/s]
+Training Loss per 500 steps: 1.1285462558607149
+Training Accuracy per 500 steps: 60.738087304231925
+3501it [27:33,  2.13it/s]
+Training Loss per 500 steps: 1.127324456182489
+Training Accuracy per 500 steps: 60.88260497000857
+4001it [31:29,  1.99it/s]
+Training Loss per 500 steps: 1.1274783778446849
+Training Accuracy per 500 steps: 60.842601849537616
+4501it [35:24,  2.11it/s]
+Training Loss per 500 steps: 1.1276108462051455
+Training Accuracy per 500 steps: 60.796211952899355
+5001it [39:19,  2.01it/s]
+Training Loss per 500 steps: 1.1269480347919407
+Training Accuracy per 500 steps: 60.87032593481304
+5501it [43:17,  2.09it/s]
+Training Loss per 500 steps: 1.127692819985232
+Training Accuracy per 500 steps: 60.75827122341393
+6001it [47:15,  2.13it/s]
+Training Loss per 500 steps: 1.1274309265794327
+Training Accuracy per 500 steps: 60.786743876020665
+6501it [51:11,  2.16it/s]
+Training Loss per 500 steps: 1.1268311694225446
+Training Accuracy per 500 steps: 60.868520227657285
+7001it [55:07,  2.21it/s]
+Training Loss per 500 steps: 1.1267735261676006
+Training Accuracy per 500 steps: 60.87255392086845
+7428it [58:29,  2.12it/s]
+The Total Accuracy for Epoch 2: 60.84432140422918
+Training Loss Epoch: 1.1270155016940706
+Training Accuracy Epoch: 60.84432140422918
+1it [00:00,  2.06it/s]
+Validation Loss per 100 steps: 1.1447300910949707
+Validation Accuracy per 100 steps: 62.5
+826it [06:22,  2.16it/s]
+Validation Loss Epoch: 1.1147463050361985
+Validation Accuracy Epoch: 62.34002271866717
+Learning rate: 1.5e-06
+Saved Best Model!
+
+Epoch 4/15
+------------------------------
+1it [00:00,  2.01it/s]
+Training Loss per 500 steps: 1.148780345916748
+Training Accuracy per 500 steps: 56.25
+501it [03:56,  2.01it/s]
+Training Loss per 500 steps: 1.1284447957179742
+Training Accuracy per 500 steps: 60.71606786427146
+1001it [07:52,  2.08it/s]
+Training Loss per 500 steps: 1.1267496410545175
+Training Accuracy per 500 steps: 60.832917082917085
+1501it [11:48,  1.95it/s]
+Training Loss per 500 steps: 1.1258737273727712
+Training Accuracy per 500 steps: 61.0093271152565
+2001it [15:42,  2.16it/s]
+Training Loss per 500 steps: 1.1257365809447286
+Training Accuracy per 500 steps: 60.97888555722139
+2501it [19:37,  2.19it/s]
+Training Loss per 500 steps: 1.1242209238226248
+Training Accuracy per 500 steps: 61.16303478608557
+3001it [23:32,  2.23it/s]
+Training Loss per 500 steps: 1.1246285331483603
+Training Accuracy per 500 steps: 61.140036654448515
+3501it [27:27,  2.20it/s]
+Training Loss per 500 steps: 1.1240139463158274
+Training Accuracy per 500 steps: 61.24857183661811
+4001it [31:21,  2.08it/s]
+Training Loss per 500 steps: 1.124704574516671
+Training Accuracy per 500 steps: 61.162834291427146
+4501it [35:16,  2.13it/s]
+Training Loss per 500 steps: 1.124474526709701
+Training Accuracy per 500 steps: 61.15724283492557
+5001it [39:12,  2.13it/s]
+Training Loss per 500 steps: 1.124344073005067
+Training Accuracy per 500 steps: 61.161517696460706
+5501it [43:08,  2.15it/s]
+Training Loss per 500 steps: 1.124660471356407
+Training Accuracy per 500 steps: 61.108207598618435
+6001it [47:03,  2.26it/s]
+Training Loss per 500 steps: 1.1247375841995733
+Training Accuracy per 500 steps: 61.09815030828195
+6501it [51:00,  2.18it/s]
+Training Loss per 500 steps: 1.1245550866714533
+Training Accuracy per 500 steps: 61.118481772035075
+7001it [54:56,  2.13it/s]
+Training Loss per 500 steps: 1.124515257704481
+Training Accuracy per 500 steps: 61.11894729324382
+7428it [58:17,  2.12it/s]
+The Total Accuracy for Epoch 3: 61.116954586380125
+Training Loss Epoch: 1.1246200191136901
+Training Accuracy Epoch: 61.116954586380125
+1it [00:00,  2.05it/s]
+Validation Loss per 100 steps: 1.1424776315689087
+Validation Accuracy per 100 steps: 62.5
+826it [06:22,  2.16it/s]
+Validation Loss Epoch: 1.1133029111649742
+Validation Accuracy Epoch: 62.483907610753505
+Learning rate: 1.5e-06
+Saved Best Model!
+
+Epoch 5/15
+------------------------------
+1it [00:00,  1.96it/s]
+Training Loss per 500 steps: 1.2419826984405518
+Training Accuracy per 500 steps: 37.5
+501it [03:56,  2.22it/s]
+Training Loss per 500 steps: 1.1272157321195164
+Training Accuracy per 500 steps: 60.703592814371255
+1001it [07:51,  2.12it/s]
+Training Loss per 500 steps: 1.1265331088722526
+Training Accuracy per 500 steps: 60.90784215784216
+1501it [11:47,  2.19it/s]
+Training Loss per 500 steps: 1.1250823005527595
+Training Accuracy per 500 steps: 61.0093271152565
+2001it [15:41,  2.26it/s]
+Training Loss per 500 steps: 1.123826540094325
+Training Accuracy per 500 steps: 61.231884057971016
+2501it [19:37,  2.17it/s]
+Training Loss per 500 steps: 1.1239609455452209
+Training Accuracy per 500 steps: 61.193022790883646
+3001it [23:33,  2.10it/s]
+Training Loss per 500 steps: 1.1229056091913976
+Training Accuracy per 500 steps: 61.31289570143286
+3501it [27:28,  2.09it/s]
+Training Loss per 500 steps: 1.1229057562620222
+Training Accuracy per 500 steps: 61.26642387889174
+4001it [31:23,  2.12it/s]
+Training Loss per 500 steps: 1.1222426667269454
+Training Accuracy per 500 steps: 61.38934016495876
+4501it [35:18,  2.21it/s]
+Training Loss per 500 steps: 1.1217858464128307
+Training Accuracy per 500 steps: 61.4127416129749
+5001it [39:14,  2.09it/s]
+Training Loss per 500 steps: 1.1216640881575768
+Training Accuracy per 500 steps: 61.426464707058585
+5501it [43:09,  2.14it/s]
+Training Loss per 500 steps: 1.1218419803031854
+Training Accuracy per 500 steps: 61.4115615342665
+6001it [47:04,  2.12it/s]
+Training Loss per 500 steps: 1.1221357193753592
+Training Accuracy per 500 steps: 61.399141809698385
+6501it [51:05,  2.19it/s]
+Training Loss per 500 steps: 1.1224871110666754
+Training Accuracy per 500 steps: 61.371327488078755
+7001it [55:01,  2.08it/s]
+Training Loss per 500 steps: 1.122653014624805
+Training Accuracy per 500 steps: 61.34748607341808
+7428it [58:23,  2.12it/s]
+The Total Accuracy for Epoch 4: 61.33910014220682
+Training Loss Epoch: 1.1227010511700415
+Training Accuracy Epoch: 61.33910014220682
+1it [00:00,  2.16it/s]
+Validation Loss per 100 steps: 1.140052080154419
+Validation Accuracy per 100 steps: 62.5
+826it [06:22,  2.16it/s]
+Validation Loss Epoch: 1.1130701387909943
+Validation Accuracy Epoch: 62.62021961378266
+Learning rate: 2.25e-07
+Saved Best Model!
+
+Epoch 6/15
+------------------------------
+1it [00:00,  1.92it/s]
+Training Loss per 500 steps: 0.989789605140686
+Training Accuracy per 500 steps: 75.0
+501it [03:57,  2.04it/s]
+Training Loss per 500 steps: 1.1278174191177963
+Training Accuracy per 500 steps: 60.64121756487026
+1001it [07:54,  2.07it/s]
+Training Loss per 500 steps: 1.124032147340365
+Training Accuracy per 500 steps: 61.095154845154845
+1501it [11:48,  2.08it/s]
+Training Loss per 500 steps: 1.1223613390280833
+Training Accuracy per 500 steps: 61.16755496335776
+2001it [15:43,  2.19it/s]
+Training Loss per 500 steps: 1.12135922792612
+Training Accuracy per 500 steps: 61.31621689155422
+2501it [19:38,  2.24it/s]
+Training Loss per 500 steps: 1.1228729909012576
+Training Accuracy per 500 steps: 61.23050779688125
+3001it [23:33,  1.89it/s]
+Training Loss per 500 steps: 1.1228760271738147
+Training Accuracy per 500 steps: 61.237920693102296
+3501it [27:29,  2.16it/s]
+Training Loss per 500 steps: 1.1228518230817686
+Training Accuracy per 500 steps: 61.29855755498429
+4001it [31:29,  2.13it/s]
+Training Loss per 500 steps: 1.1224947526764197
+Training Accuracy per 500 steps: 61.3471632091977
+4501it [35:25,  2.18it/s]
+Training Loss per 500 steps: 1.1219611371048184
+Training Accuracy per 500 steps: 61.37108420351033
+5001it [39:22,  2.08it/s]
+Training Loss per 500 steps: 1.1221311350413214
+Training Accuracy per 500 steps: 61.35522895420916
+5501it [43:17,  2.16it/s]
+Training Loss per 500 steps: 1.1222212388610389
+Training Accuracy per 500 steps: 61.354753681148885
+6001it [47:12,  2.15it/s]
+Training Loss per 500 steps: 1.121971293362632
+Training Accuracy per 500 steps: 61.38039493417764
+6501it [51:07,  2.18it/s]
+Training Loss per 500 steps: 1.121884770557305
+Training Accuracy per 500 steps: 61.400169204737736
+7001it [55:01,  2.10it/s]
+Training Loss per 500 steps: 1.1214894728223999
+Training Accuracy per 500 steps: 61.42872446793315
+7428it [58:23,  2.12it/s]
+The Total Accuracy for Epoch 5: 61.37528294107253
+Training Loss Epoch: 1.1220275165255376
+Training Accuracy Epoch: 61.37528294107253
+1it [00:00,  2.15it/s]
+Validation Loss per 100 steps: 1.1396806240081787
+Validation Accuracy per 100 steps: 62.5
+826it [06:21,  2.16it/s]
+Validation Loss Epoch: 1.112093580187666
+Validation Accuracy Epoch: 62.74138583869746
+Learning rate: 2.25e-07
+Saved Best Model!
+
+Epoch 7/15
+------------------------------
+1it [00:00,  1.74it/s]
+Training Loss per 500 steps: 1.2235169410705566
+Training Accuracy per 500 steps: 56.25
+501it [03:55,  2.10it/s]
+Training Loss per 500 steps: 1.126717207079638
+Training Accuracy per 500 steps: 60.74101796407186
+1001it [07:50,  2.17it/s]
+Training Loss per 500 steps: 1.1249452525680954
+Training Accuracy per 500 steps: 61.032717282717286
+1501it [11:46,  2.16it/s]
+Training Loss per 500 steps: 1.1259660257807103
+Training Accuracy per 500 steps: 60.99683544303797
+2001it [15:43,  1.97it/s]
+Training Loss per 500 steps: 1.1253595499918498
+Training Accuracy per 500 steps: 61.081959020489755
+2501it [19:37,  2.02it/s]
+Training Loss per 500 steps: 1.1251022661032557
+Training Accuracy per 500 steps: 61.15803678528589
+3001it [23:32,  2.27it/s]
+Training Loss per 500 steps: 1.1250041174872722
+Training Accuracy per 500 steps: 61.18377207597467
+3501it [27:27,  2.14it/s]
+Training Loss per 500 steps: 1.1243586039515912
+Training Accuracy per 500 steps: 61.275349900028566
+4001it [31:22,  2.21it/s]
+Training Loss per 500 steps: 1.1235529458454268
+Training Accuracy per 500 steps: 61.35184953761559
+4501it [35:17,  2.13it/s]
+Training Loss per 500 steps: 1.1235791748297317
+Training Accuracy per 500 steps: 61.34470117751611
+5001it [39:13,  2.18it/s]
+Training Loss per 500 steps: 1.1236551488621
+Training Accuracy per 500 steps: 61.31898620275945
+5501it [43:08,  2.15it/s]
+Training Loss per 500 steps: 1.1233019973880225
+Training Accuracy per 500 steps: 61.361570623522994
+6001it [47:02,  2.09it/s]
+Training Loss per 500 steps: 1.1232413254545404
+Training Accuracy per 500 steps: 61.350191634727544
+6501it [51:01,  2.12it/s]
+Training Loss per 500 steps: 1.1231002447110399
+Training Accuracy per 500 steps: 61.36075219197047
+7001it [54:55,  2.01it/s]
+Training Loss per 500 steps: 1.122424660376388
+Training Accuracy per 500 steps: 61.41890444222254
+7428it [58:14,  2.13it/s]
+The Total Accuracy for Epoch 6: 61.40641697730581
+Training Loss Epoch: 1.122396917892324
+Training Accuracy Epoch: 61.40641697730581
+1it [00:00,  2.13it/s]
+Validation Loss per 100 steps: 1.1400970220565796
+Validation Accuracy per 100 steps: 62.5
+826it [06:21,  2.17it/s]
+Validation Loss Epoch: 1.1122199072531869
+Validation Accuracy Epoch: 62.67322983718289
+Learning rate: 3.3749999999999995e-08
+
+Epoch 8/15
+------------------------------
+1it [00:00,  2.08it/s]
+Training Loss per 500 steps: 1.0991370677947998
+Training Accuracy per 500 steps: 56.25
+501it [03:54,  2.16it/s]
+Training Loss per 500 steps: 1.123380698010831
+Training Accuracy per 500 steps: 61.27744510978044
+1001it [07:49,  2.08it/s]
+Training Loss per 500 steps: 1.1212738058664702
+Training Accuracy per 500 steps: 61.55094905094905
+1501it [11:44,  2.07it/s]
+Training Loss per 500 steps: 1.1226896913269215
+Training Accuracy per 500 steps: 61.41738840772818
+2001it [15:38,  2.18it/s]
+Training Loss per 500 steps: 1.1233860943866694
+Training Accuracy per 500 steps: 61.2256371814093
+2501it [19:34,  1.99it/s]
+Training Loss per 500 steps: 1.122709909137465
+Training Accuracy per 500 steps: 61.31797281087565
+3001it [23:28,  2.14it/s]
+Training Loss per 500 steps: 1.1223204108088543
+Training Accuracy per 500 steps: 61.3607964011996
+3501it [27:19,  1.90it/s]
+Training Loss per 500 steps: 1.1218255571520896
+Training Accuracy per 500 steps: 61.42173664667238
+4001it [31:13,  2.13it/s]
+Training Loss per 500 steps: 1.1227483153939097
+Training Accuracy per 500 steps: 61.30342414396401
+4501it [35:06,  2.13it/s]
+Training Loss per 500 steps: 1.1223495468063582
+Training Accuracy per 500 steps: 61.38635858698067
+5001it [38:59,  2.14it/s]
+Training Loss per 500 steps: 1.1221401761041072
+Training Accuracy per 500 steps: 61.42021595680864
+5501it [42:51,  2.00it/s]
+Training Loss per 500 steps: 1.1212230323770007
+Training Accuracy per 500 steps: 61.513815669878205
+5791it [45:06,  2.16it/s]
