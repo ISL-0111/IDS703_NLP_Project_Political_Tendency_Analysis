@@ -1,5 +1,7 @@
 ## Political Leaning in News with BERT
 
+[Refer to the full version of the report](https://github.com/ISL-0111/IDS703_NLP_Project_Political_Tendency_Analysis/blob/main/Political%20Leaning%20in%20News%20with%20Bert%20Final.pdf)
+
 ### Abstract
 This paper explores the application of BERT-based architectures for document classification of
 political leanings, focusing on DistilBERT for its versatility and lightweight design while
