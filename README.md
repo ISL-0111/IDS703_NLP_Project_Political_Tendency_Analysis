@@ -23,8 +23,5 @@ These results highlight the adaptability of BERT-based models to varying data co
 emphasize LoRA’s role in optimizing classification tasks, even with data drift across years. Future
 work will explore headline-specific performance challenges, alternative a
 
-Trained model(Nov.19)
-
-
 #### Contributor
 Janet Chen, Ilseop Lee, Jahnavi Maddhuri, Alejandro Par
