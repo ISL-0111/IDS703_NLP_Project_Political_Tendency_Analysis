@@ -1,4 +1,4 @@
-### Political Leaning in News with BERT
+## Political Leaning in News with BERT
 
 ### Abstract
 This paper explores the application of BERT-based architectures for document classification of
